@@ -1,0 +1,13 @@
+c:\users\jun\source\repos\COMP2614Assign06\COMP2614Assign06\bin\Debug\COMP2614Assign06.exe.config
+c:\users\jun\source\repos\COMP2614Assign06\COMP2614Assign06\bin\Debug\COMP2614Assign06.exe
+c:\users\jun\source\repos\COMP2614Assign06\COMP2614Assign06\bin\Debug\COMP2614Assign06.pdb
+c:\users\jun\source\repos\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.csprojResolveAssemblyReference.cache
+c:\users\jun\source\repos\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.Properties.Resources.resources
+c:\users\jun\source\repos\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.csproj.GenerateResource.Cache
+c:\users\jun\source\repos\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.csproj.CoreCompileInputs.cache
+c:\users\jun\source\repos\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.exe
+c:\users\jun\source\repos\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.pdb
+C:\Users\Jun\source\repos\COMP2614Assign06\COMP2614Assign06\bin\Debug\Controller.dll
+C:\Users\Jun\source\repos\COMP2614Assign06\COMP2614Assign06\bin\Debug\Controller.pdb
+C:\Users\Jun\source\repos\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.MainForm.resources
+C:\Users\Jun\source\repos\COMP2614Assign06\COMP2614Assign06\obj\Debug\COMP2614Assign06.ClientEditDialog.resources
